@@ -1,18 +1,65 @@
-## Getting Started
+# 👓 Sistema de Gestión de Artículos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### ✨ Preentrega de Java · Talento Tech
 
-## Folder Structure
+**Desarrollado por: Lorena Saldaño** 💻
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📌 Sobre el proyecto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Este proyecto consiste en el desarrollo de un sistema de gestión de artículos mediante una aplicación de consola realizada en **Java**.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+El objetivo es aplicar los conceptos de programación orientada a objetos (POO) aprendidos durante el curso, construyendo una base para administrar diferentes tipos de artículos.
 
-## Dependency Management
+## 🎯 Objetivos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* 📝 Registrar artículos.
+* 📋 Listar los artículos registrados.
+* 🔎 Consultar artículos.
+* ✏️ Modificar sus datos.
+* 🗑️ Eliminar artículos.
+* 🗂️ Gestionar y consultar categorías.
+
+## 🛠️ Tecnologías y conceptos
+
+* **Java**
+* Programación Orientada a Objetos (POO)
+* Clases y objetos
+* Encapsulamiento
+* Constructores, getters y setters
+* Herencia y polimorfismo
+* Clases abstractas y métodos sobrescritos (`@Override`)
+* Colecciones `ArrayList`
+* Métodos `toString()`
+
+## 🗂️ Estructura del proyecto
+
+```text
+herencia_polimorfismo_tostring/
+└── src/
+    └── com.techlab.articulo/
+        ├── App.java
+        └── model/
+            ├── Articulo.java
+            ├── ArticuloElectronico.java
+            ├── ArticuloAlimenticio.java
+            └── Categoria.java
+```
+
+## 🚀 Estado del proyecto
+
+📍 **Etapa:** Preentrega.
+
+El proyecto se encuentra en desarrollo y forma parte del proceso de aprendizaje de Java y programación orientada a objetos.
+
+## 👩‍💻 Autora
+
+**Lorena Saldaño**
+
+Estudiante de programación · Talento Tech
+
+---
+
+*Aprendiendo, practicando y construyendo paso a paso.* 💜
+
